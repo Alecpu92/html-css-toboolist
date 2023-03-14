@@ -1,6 +1,10 @@
 body{
-    background-color: red;
+    background-color: lightgray
+}
+header{
+    background-color: white;
 }
 #logo-text{
-    font-size: 100px;
+    font-size: 40px;
 }
+

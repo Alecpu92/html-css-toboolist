@@ -6,19 +6,21 @@ header{
 }
 #logo-text{
     font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #logo{
     vertical-align: middle;
 }
 main{
+    display: inline inline-block;
     width: 1000px;
-    height: 1000px;
+    height: 700px;
     background-color: white;
     margin-left: 200px;
     margin-top: 50px;
     border-radius: 5%;
     padding-left: 50px;
-    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #add-task{
     margin-top: 20px;
@@ -26,48 +28,62 @@ main{
     background-color: blue;
     color: white;
     border-radius: 10%;
+    border: 0;
 }
 #add-section{
     height: 30px;
     background-color: white;
     color: grey;
-    border-radius: 10%
+    border-radius: 10%;
+    border-color: grey;
 }
 #editorial{
     background-color: blue;
     margin-left: 10px;
     color: white;
-    border-radius: 20%
+    border-radius: 20%;
+    padding: 3px;
+    font-size: 10px;
 }
 #q1-goals{
     background-color: blueviolet;
     margin-left: 10px;
     color: white;
-    border-radius: 20%
+    border-radius: 20%;
+    padding: 3px;
+    font-size: 10px;
 }
 #recruting{
     background-color: lightgreen;
     margin-left: 10px;
     color: white;
-    border-radius: 20%   
+    border-radius: 20%;
+    padding: 3px;
+    font-size: 10px;  
 }
 #mobile{
     background-color: orange;
     margin-left: 10px;
     color: white;
-    border-radius: 20%    
+    border-radius: 20%;
+    padding: 3px;
+    font-size: 10px;   
 }
 #website{
     background-color: violet;
     margin-left: 10px;
     color: white;
-    border-radius: 20%
+    border-radius: 20%;
+    padding: 3px;
+    font-size: 10px;
 }
 #sales{
     background-color: lawngreen;
     margin-left: 10px;
     color: white;
-    border-radius: 20%
+    border-radius: 20%;
+    padding: 3px;
+    font-size: 10px;
 }
 #cross{
     color: red;

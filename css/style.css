@@ -17,11 +17,11 @@ main{
     margin-left: 200px;
     margin-top: 50px;
     border-radius: 5%;
-    ;
+    padding-left: 50px;
+    
 }
 #add-task{
     margin-top: 20px;
-    margin-left: 50px;
     height: 30px;
     background-color: blue;
     color: white;
@@ -32,4 +32,46 @@ main{
     background-color: white;
     color: grey;
     border-radius: 10%
+}
+#editorial{
+    background-color: blue;
+    margin-left: 10px;
+    color: white;
+    border-radius: 20%
+}
+#q1-goals{
+    background-color: blueviolet;
+    margin-left: 10px;
+    color: white;
+    border-radius: 20%
+}
+#recruting{
+    background-color: lightgreen;
+    margin-left: 10px;
+    color: white;
+    border-radius: 20%   
+}
+#mobile{
+    background-color: orange;
+    margin-left: 10px;
+    color: white;
+    border-radius: 20%    
+}
+#website{
+    background-color: violet;
+    margin-left: 10px;
+    color: white;
+    border-radius: 20%
+}
+#sales{
+    background-color: lawngreen;
+    margin-left: 10px;
+    color: white;
+    border-radius: 20%
+}
+#cross{
+    color: red;
+}
+#check{
+    color: green;
 }

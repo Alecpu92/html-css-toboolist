@@ -7,4 +7,29 @@ header{
 #logo-text{
     font-size: 40px;
 }
-
+#logo{
+    vertical-align: middle;
+}
+main{
+    width: 1000px;
+    height: 1000px;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 5%;
+    ;
+}
+#add-task{
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    border-radius: 10%;
+}
+#add-section{
+    height: 30px;
+    background-color: white;
+    color: grey;
+    border-radius: 10%
+}
